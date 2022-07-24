@@ -1,0 +1,7 @@
+C:\Users\Богдан\source\repos\BirthdayParty\BirthdayParty\bin\Debug\BirthdayParty.exe.config
+C:\Users\Богдан\source\repos\BirthdayParty\BirthdayParty\bin\Debug\BirthdayParty.exe
+C:\Users\Богдан\source\repos\BirthdayParty\BirthdayParty\bin\Debug\BirthdayParty.pdb
+C:\Users\Богдан\source\repos\BirthdayParty\BirthdayParty\obj\Debug\BirthdayParty.csproj.AssemblyReference.cache
+C:\Users\Богдан\source\repos\BirthdayParty\BirthdayParty\obj\Debug\BirthdayParty.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\source\repos\BirthdayParty\BirthdayParty\obj\Debug\BirthdayParty.exe
+C:\Users\Богдан\source\repos\BirthdayParty\BirthdayParty\obj\Debug\BirthdayParty.pdb
